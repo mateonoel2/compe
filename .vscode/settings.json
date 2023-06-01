@@ -1,0 +1,19 @@
+{
+    "files.associations": {
+        "numeric": "cpp",
+        "random": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "deque": "cpp",
+        "forward_list": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "string_view": "cpp",
+        "span": "cpp",
+        "__split_buffer": "cpp",
+        "queue": "cpp",
+        "string": "cpp",
+        "cmath": "cpp"
+    }
+}
